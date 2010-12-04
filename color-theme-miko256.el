@@ -9,7 +9,7 @@
 ;; (require 'color-theme)
 ;; (color-theme-initialize)
 ;; (load-file "~/.emacs.d/color-themes/color-theme-miko256.el")
-;; (color-theme:w-twilight) to activate it.
+;; (color-theme-miko256) to activate it.
 ;;
 ;; MIT License Copyright (c) 2010 Mike Zazaian <mk@mkzzn.org>
 
